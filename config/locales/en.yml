@@ -1,0 +1,7 @@
+# English strings go here for Rails i18n
+en:
+  field_default_assignee: "Default Assignee"
+  default_assign_text_settings: "Options"
+  default_assign_settings_help: "Default assign for new projects"
+  label_user: "User"
+
